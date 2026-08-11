@@ -309,3 +309,5 @@ Original Slopkit development:
 ChileServer fork / PS5 AUTOLOAD integration:
 
 **Not-Yitan**
+
+https://github.com/user-attachments/assets/09578b30-3741-4d06-9845-2415e31ca2b7

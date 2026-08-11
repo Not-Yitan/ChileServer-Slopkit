@@ -281,6 +281,15 @@ Please refer to the respective upstream projects for their licenses, source code
 
 ---
 
+> ### 🐱 One Last Change...
+>
+> I also replaced the original cat image. No technical reason, no compatibility issue, no performance improvement... **I just don't like cats that much XD.**
+> Consider it the most important visual optimization in the ChileServer fork. 😎
+>
+> — **Not-Yitan**
+
+---
+
 ## Disclaimer
 
 This project is intended for research, development, experimentation, and homebrew use on compatible systems.
